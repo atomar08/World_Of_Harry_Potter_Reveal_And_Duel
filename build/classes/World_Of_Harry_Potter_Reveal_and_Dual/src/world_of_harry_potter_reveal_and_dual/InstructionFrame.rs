@@ -1,0 +1,3 @@
+world_of_harry_potter_reveal_and_dual.InstructionFrame
+world_of_harry_potter_reveal_and_dual.InstructionFrame$2
+world_of_harry_potter_reveal_and_dual.InstructionFrame$1
